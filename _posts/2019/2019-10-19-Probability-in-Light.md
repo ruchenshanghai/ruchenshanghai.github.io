@@ -16,3 +16,4 @@ Conditional probability, intervention query, casual modeling.
 Chain rule, product rule.<br />
 Conditionally Independent.<br />
 Expectation, expected value, variance, standard deviation, covariance, correlation, covariance matrix.<br />
+Independent -> zero variance, nonzero covariance -> dependent.<br />
